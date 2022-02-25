@@ -26,5 +26,3 @@ class Database {
         return $result;
 
     }
-
-}
